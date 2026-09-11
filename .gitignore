@@ -1,0 +1,13 @@
+.venv/
+venv/
+
+.env
+.env.*
+
+__pycache__/
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
+
+catboost_info/
